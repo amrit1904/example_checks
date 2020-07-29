@@ -1,6 +1,6 @@
 check50:
   checks:
      hello:
-      -run: javac hello1.java
+      -run: python3 hello.py
       stdout: hello
       exit: 0
