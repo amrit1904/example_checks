@@ -4,3 +4,7 @@ check50:
       - run: python3 hello.py
         stdout: Hello, world!
         exit: 0
+    hello:
+     -run: javac bleh.java
+     stdout: hello
+     exit: 0
