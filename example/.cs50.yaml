@@ -1,10 +1,5 @@
 check50:
   checks:
-    hello world:
-      - run: python3 hello.py
-        stdout: Hello, world!
-        exit: 0
-        
      hello:
       -run: javac hello1.java
       stdout: hello
