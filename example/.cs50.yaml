@@ -1,4 +1,4 @@
-check50:
+check50:true
   checks:
     hello world:
       - run: python3 hello.py
